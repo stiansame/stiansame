@@ -2,7 +2,6 @@
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... my Portfolio assignment
 - 🌱 I’m currently learning ... JavaScript
