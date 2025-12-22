@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on ... my Workflow assignment and a low-key online-store
+- 🔭 I’m currently working on ... my Semester Project and Workflow CA
 - 🌱 I’m currently learning ... JavaScript and how to be a Frontend Developer
 - 👯 I’m looking to collaborate on ... nothing at the moment
 - 🤔 I’m looking for help with ... JavaScript and CSS - always!
