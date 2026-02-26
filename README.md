@@ -4,7 +4,8 @@
 
 
 - 🔭 I’m currently working on ... Industry Knowledge
-- 🌱 I’m currently learning ... JavaScript and how to be a Frontend Developer
+- 🌱 I’m currently learning ... JavaScript, TypeScript, how to write Restful API's and how to be a Frontend Developer
+- 🧩 I have skills in `html`, `css`, `JavaScript`, `tailwind`, `TypeScript` and more to come..
 - 👯 I’m looking to collaborate on ... nothing at the moment
 - 🤔 I’m looking for help with ... JavaScript and CSS - always!
 - 💬 Ask me about ... CSS
