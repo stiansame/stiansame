@@ -94,5 +94,9 @@ I’m especially interested in projects where I can combine:
 
 ## 🫱🏻‍🫲🏻 Connect with me
 <p> <a href="https://github.com/stiansame"> <img src="https://img.shields.io/badge/GitHub-stiansame-181717?style=flat-square&logo=github" alt="GitHub link badge" /> </a> </p>
-<p> <a href="https://stianrostad.no"> <img src="https://img.shields.io/badge/Website-stianrostad.no-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Website link badge" /> </a> </p>
+    <a href="https://stianrostad.no"> <img src="https://img.shields.io/badge/Website-stianrostad.no-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Website link badge" /> </a> 
+    <a href="mailto:stianrostad@gmail.com"><img src="https://img.shields.io/badge/Email-stianrostad@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />  </a>
+    <a href="https://www.linkedin.com/in/stian-rostad-99a90750/"><img src="https://img.shields.io/badge/LinkedIn-Stian%20Rostad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
+</p>
 
+![](https://komarev.com/ghpvc/?username=stiansame&style=for-the-badge)
