@@ -30,6 +30,7 @@ Right now, I’m sharpening my skills through hands-on projects in modern fronte
 - [x] 🌍 Based in **Norway**
 - [x] 🧠 Currently growing in **JavaScript, TypeScript, APIs, and frontend architecture**
 - [x] ⚡ I enjoy turning “this should be simple” into “okay, now it actually works”
+- [x] 🤡 Fun fact: I refactor like the person `who` wrote it was someone `else`
 
 ---
 
