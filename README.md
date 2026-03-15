@@ -10,6 +10,5 @@
 - 🤔 I’m looking for help with ... JavaScript and CSS - always!
 - 💬 Ask me about ... CSS
 - 📫 How to reach me: ... send me an email @ <a href="mailto:stianrostad@gmail.com"> my address </a> 
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I think pronouns are silly
+
 
