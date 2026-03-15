@@ -11,8 +11,8 @@
   <a href="https://stianrostad.no">
     <img src="https://img.shields.io/badge/Portfolio-stianrostad.no-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio badge" />
   </a>
-  <img src="https://img.shields.io/badge/Based%20in-Norway-EA4335?style=for-the-badge" alt="Norway badge" />
   <img src="https://img.shields.io/badge/Open%20to-Learning%20%26%20Building-7F52FF?style=for-the-badge" alt="Learning badge" />
+  ![](https://komarev.com/ghpvc/?username=stiansame&style=for-the-badge)
 </p>
 
 ---
@@ -110,5 +110,3 @@ I’m especially interested in projects where I can combine:
     <img src="https://img.shields.io/badge/LinkedIn-Stian%20Rostad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>
 </p>
-
-![](https://komarev.com/ghpvc/?username=stiansame&style=for-the-badge)
