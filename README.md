@@ -23,10 +23,10 @@ I'm a frontend developer from Norway with a strong focus on building clean, resp
 
 Right now, I’m sharpening my skills through hands-on projects in modern frontend development, working across everything from course assignments to larger portfolio pieces. I like practical UI, clear structure, and code that does the job without drama.
 
-- 🎓 Frontend Development at **Noroff**
-- 🌍 Based in **Norway**
-- 🧠 Currently growing in **JavaScript, TypeScript, APIs, and frontend architecture**
-- ⚡ I enjoy turning “this should be simple” into “okay, now it actually works”
+- [x] 🎓 Frontend Development at **Noroff**
+- [x] 🌍 Based in **Norway**
+- [x] 🧠 Currently growing in **JavaScript, TypeScript, APIs, and frontend architecture**
+- [x] ⚡ I enjoy turning “this should be simple” into “okay, now it actually works”
 
 ---
 
@@ -70,7 +70,7 @@ I’m especially interested in projects where I can combine:
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=stiansame&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiansame&layout=compact&theme=transparent" alt="Top languages" />
 </p>
@@ -92,21 +92,6 @@ I’m especially interested in projects where I can combine:
 
 ---
 
-## 💻 Terminal mode
-> whoami
-Stian
+## 🫱🏻‍🫲🏻 Connect with me
+<p> <a href="https://github.com/stiansame"> <img src="https://img.shields.io/badge/GitHub-stiansame-181717?style=flat-square&logo=github" alt="GitHub link badge" /> </a> <a href="https://stianrostad.no"> <img src="https://img.shields.io/badge/Website-stianrostad.no-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Website link badge" /> </a> </p>
 
-> role
-Frontend Developer
-
-> location
-Norway
-
-> stack
-HTML, CSS, JavaScript, TypeScript, SQL, Tailwind, Git
-
-> current_mission
-Build polished web experiences and keep leveling up
-
-> fun_fact
-I refactor like the person who wrote it was someone else
