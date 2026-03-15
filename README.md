@@ -75,7 +75,7 @@ I’m especially interested in projects where I can combine:
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiansame&layout=compact&theme=transparent" alt="Top languages" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=stiansame&theme=transparent&hide_border=false" alt="GitHub streak stats" />
 </p>
 
@@ -93,5 +93,6 @@ I’m especially interested in projects where I can combine:
 ---
 
 ## 🫱🏻‍🫲🏻 Connect with me
-<p> <a href="https://github.com/stiansame"> <img src="https://img.shields.io/badge/GitHub-stiansame-181717?style=flat-square&logo=github" alt="GitHub link badge" /> </a> <a href="https://stianrostad.no"> <img src="https://img.shields.io/badge/Website-stianrostad.no-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Website link badge" /> </a> </p>
+<p> <a href="https://github.com/stiansame"> <img src="https://img.shields.io/badge/GitHub-stiansame-181717?style=flat-square&logo=github" alt="GitHub link badge" /> </a> </p>
+<p> <a href="https://stianrostad.no"> <img src="https://img.shields.io/badge/Website-stianrostad.no-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Website link badge" /> </a> </p>
 
