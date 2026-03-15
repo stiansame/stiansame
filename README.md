@@ -24,7 +24,6 @@ I'm a frontend developer from Norway with a strong focus on building clean, resp
 Right now, I’m sharpening my skills through hands-on projects in modern frontend development, working across everything from course assignments to larger portfolio pieces. I like practical UI, clear structure, and code that does the job without drama.
 
 - 🎓 Frontend Development at **Noroff**
-- 💼 Also connected to **Viken Fiber AS**
 - 🌍 Based in **Norway**
 - 🧠 Currently growing in **JavaScript, TypeScript, APIs, and frontend architecture**
 - ⚡ I enjoy turning “this should be simple” into “okay, now it actually works”
@@ -69,22 +68,6 @@ I’m especially interested in projects where I can combine:
 
 ---
 
-## 🌟 Featured Projects
-
-### 🔹 FED2 Development Platforms
-Course assignment work focused on modern frontend development and TypeScript.
-
-### 🔹 Noroff TradeHub / Auction Site
-A cleaner, more advanced frontend project with JavaScript and a practical product-focused UI.
-
-### 🔹 Portfolio Projects
-A growing collection of assignments and experiments that reflect my progress as a frontend developer.
-
-### 🔹 SquareEyes CMS
-CMS/headless-style project work with a frontend-first mindset.
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -105,3 +88,25 @@ CMS/headless-style project work with a frontend-first mindset.
 - Building stronger UI structure
 - Improving API integration skills
 - Creating projects that look good and work even better
+```
+
+---
+
+## 💻 Terminal mode
+> whoami
+Stian
+
+> role
+Frontend Developer
+
+> location
+Norway
+
+> stack
+HTML, CSS, JavaScript, TypeScript, SQL, Tailwind, Git
+
+> current_mission
+Build polished web experiences and keep leveling up
+
+> fun_fact
+I refactor like the person who wrote it was someone else
