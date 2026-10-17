@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Portfolio-stianrostad.no-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio badge" />
   </a>
 
-  <img src="https://img.shields.io/badge/Open%20to-Learning%20%26%20Building-7F52FF?style=for-the-badge" alt="Learning badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Learning%20%26%20Building-7F52FF?style=for-the-badge&v=2" alt="Learning badge" />
 
    <img src="https://komarev.com/ghpvc/?username=stiansame&style=for-the-badge" alt="Profile views badge" />
 </p>
