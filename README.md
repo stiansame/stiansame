@@ -59,8 +59,8 @@ Right now, I’m sharpening my skills through hands-on projects in modern fronte
 
 I’ve been building across a mix of frontend projects, including:
 
-- **Development platform coursework** in TypeScript
-- **Auction site / marketplace-style UI**
+- **Javascript Frameworks** React in particular
+- **Project Exam 2**
 - **Portfolio and CMS-related projects**
 - **Responsive websites** using HTML, CSS, JavaScript, and Tailwind
 
@@ -88,6 +88,7 @@ I’m especially interested in projects where I can combine:
 ## 🧠 Current Focus
 
 ```txt
+- React
 - Writing cleaner JavaScript and TypeScript
 - Building stronger UI structure
 - Improving API integration skills
